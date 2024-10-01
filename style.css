@@ -10,7 +10,7 @@
     background-color: antiquewhite;
 }
 .container:hover{
-    border: 2px solid;
+    border: 1px solid;
 }
 /* '''feedback form''' */
 
@@ -25,14 +25,18 @@
 
 .form{
 border: 1px solid black;
-padding-left: 8px;
+padding-left: 10px;
+padding-top: 10px;
 margin-left: 10px auto;
+width: 290px;
+height: 310px;
 }
 .form:hover{
     border:2px solid;
 }
     
 h4{
+    text-align: center;
     font-size: 30px;
     padding-top: 5px;
 }
